@@ -4,8 +4,7 @@
 １マス以上の間隔を維持したままブロックをスライドすることで縦軸を揃える」
 を実現したサンプルプロジェクトです
 
-![Uploading sample.gif…]()
-
+![sample](https://user-images.githubusercontent.com/50489724/165023467-09c8cfa2-75e0-4b93-a723-09c2c0ba997c.gif)
 
 # 動作環境
 Unity2020.3.x
